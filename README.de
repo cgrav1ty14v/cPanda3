@@ -4,7 +4,6 @@ Official PyTorch implementation of [**“PANDA: Adapting Pretrained Features for
 ## Virtual Environment
 Use the following commands:
 ```
-<videolink1>https://servicos.itcore.com.br/vendor/laminas/laminas-cache/src/Factory.php</videolink1>
 cd path-to-PANDA-directory
 virtualenv venv --python python3
 source venv/bin/activate
